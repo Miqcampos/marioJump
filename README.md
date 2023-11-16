@@ -1,3 +1,3 @@
 # marioJump
  
-![game-over](https://github.com/Miqcampos/marioJump/assets/145502751/0005e893-faaa-4140-8c37-ae129bd31a57)
+![mario03](https://github.com/Miqcampos/marioJump/assets/145502751/aeae3dfd-398d-4116-bf92-c916522d23df)
